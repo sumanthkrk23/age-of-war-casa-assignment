@@ -2,11 +2,11 @@
 This is a simple Python simulation of a battle between two armies made up of different types of platoons. Each platoon has a unit type and a number of soldiers. The simulator checks whether there's a permutation (reordering) of your platoons that can defeat the opponent's platoons in at least 3 out of 5 battles.
 
 #Requirements
-Python 3.6 or later
+Python 3.6 or later.
 No external libraries are required other than the Python standard library.
 
 #How to Run
-Save the script to a file, for example: battle_simulator.py
+Save the script to a file, for example: age_of_war.py
 Run the script using Python:
 python age_of_war.py
 
